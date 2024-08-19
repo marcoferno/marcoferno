@@ -5,11 +5,11 @@
 
 ###
 
-<h6 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h6>
+<h5 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h5>
 
 ###
 
-<h6 align="left">Analista de dados com foco nos processos de coleta, estruturação e análise de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a equipe de dados na evolução dos produtos e serviços.</h6>
+<h5 align="left">Analista de dados com foco nos processos de coleta, estruturação e análise de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a equipe de dados na evolução dos produtos e serviços.</h5>
 
 ###
 
@@ -79,7 +79,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marcoferno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoferno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoferno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
