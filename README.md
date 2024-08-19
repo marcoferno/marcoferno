@@ -5,11 +5,11 @@
 
 ###
 
-<h5 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h5>
+<h4 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h5>
 
 ###
 
-<h5 align="left">Analista de dados com foco nos processos de coleta, estruturação e análise de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a equipe de dados na evolução dos produtos e serviços.</h5>
+<h4 align="left">Analista de dados com foco nos processos de coleta, estruturação e análise de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a equipe de dados na evolução dos produtos e serviços.</h5>
 
 ###
 
@@ -53,12 +53,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="25" alt="anaconda logo"  />
+<div style="display: flex;">
+  <img src="https://camo.githubusercontent.com/15365cbbe68366fd752093cc35abb8898c80c8ac24758b3a197c8f215661864d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d626c61636b3f7374796c653d706c6173746963266c6f676f3d506f7765722d4249" alt="Power BI" height="25" style="border: none;">
+  <img src="https://camo.githubusercontent.com/bacfb109ecdf12365384efbc293a2f4e765285dc856cd730b8ce032e8d505089/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461626c6561752d626c61636b3f7374796c653d706c6173746963266c6f676f3d5461626c656175" alt="Tableau" height="25" style="border: none;">
 </div>
 
 ###
-
 <p align="left">🖥️ IDEs</p>
 
 ###
