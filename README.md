@@ -1,41 +1,85 @@
-<h2 align="left">Olá, me chama Renan Marcolino Fernandes!</h2>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+</div>
 
 ###
 
-<h4 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h4>
+<h6 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h6>
 
 ###
 
-<h2 align="left">🧑🏽 Sobre Mim</h2>
+<h6 align="left">Analista de dados com foco nos processos de coleta, estruturação e análise de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a equipe de dados na evolução dos produtos e serviços.</h6>
 
 ###
 
-<h4 align="left">Cursando Análise e Desenvolvimento de Sistemas e me aprofundando no universo de gerenciamento de banco de dados e análise de dados. Tenho me empenhado em aprender e aprimorar minhas habilidades por meio de projetos pessoais.<br><br>Capaz de desenvolver soluções inteligentes, aplicando as melhores práticas de mercado em análise de dados. Tenho experiência na construção de pipelines de dados eficientes, com foco em organização de código, modelagem de dados eficaz e técnicas de ETL. Aprimoro minhas habilidades em arquitetura, análise e visualização de dados, sempre para entregar insights de alta qualidade.<br><br>Tenho Experiência com as seguintes tecnologias e frameworks:<br><br>🐍 Python:<br>- Pandas<br>- NumPy<br>- Matplotlib<br>- Seaborn<br>- Plotly<br><br>📈 R:<br>- dplyr<br>- tidyr<br>- data.table<br>- ggplot2<br>- plotly<br>- lubridate<br><br>📊 Power BI:<br>- Power Query<br>- DAX (Data Analysis Expressions)<br>- R Scripts<br>- Python Scripts<br><br>📊 Tableau<br>- Tableau Public<br>- Calculated Fields<br>- Table Calculations<br>- Dashboard Actions<br>- Data Extracts<br>- Integration with R and Python</h4>
+<h2 align="left">🛠️ Linguagens e Ferramentas:</h2>
 
 ###
 
-<h1 align="left"></h1>
+<p align="left">💻 Ferramentas de Rotina:</p>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25" alt="r logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
+</div>
+
+###
+
+<p align="left">🔍 Análise de Dados:</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="25" alt="pandas logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" alt="r logo"  />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="25" alt="numpy logo"  />
+</div>
+
+###
+
+<p align="left">📊Visualização de Dados:</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="25" alt="anaconda logo"  />
+</div>
+
+###
+
+<p align="left">🖥️ IDEs</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="25" alt="pycharm logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="25" alt="visualstudio logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  />
+</div>
+
+###
+
+<p align="left">📈 Estatísticas:</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoferno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoferno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
