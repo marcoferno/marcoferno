@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h5>
+<h4 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h5>
 
 ###
 
-<h3 align="left">Analista de dados com foco nos processos de coleta, estruturação e análise de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a equipe de dados na evolução dos produtos e serviços.</h5>
+<h4 align="left">Analista de dados com foco nos processos de coleta, estruturação e análise de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a equipe de dados na evolução dos produtos e serviços.</h5>
 
 ###
 
