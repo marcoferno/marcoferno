@@ -54,15 +54,6 @@
 
 ###
 
-<p align="left">📊Visualização de Dados:</p>
-
-###
-
-<div style="display: flex;">
-  <img src="https://camo.githubusercontent.com/15365cbbe68366fd752093cc35abb8898c80c8ac24758b3a197c8f215661864d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d626c61636b3f7374796c653d706c6173746963266c6f676f3d506f7765722d4249" alt="Power BI" height="25" style="border: none;">
-  <img src="https://camo.githubusercontent.com/bacfb109ecdf12365384efbc293a2f4e765285dc856cd730b8ce032e8d505089/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461626c6561752d626c61636b3f7374796c653d706c6173746963266c6f676f3d5461626c656175" alt="Tableau" height="25" style="border: none;">
-</div>
-
 ###
 <p align="left">🖥️ IDEs</p>
 
