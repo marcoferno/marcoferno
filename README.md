@@ -10,11 +10,11 @@
 
 ###
 
-<h4 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h5>
+<h4 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas e Administração e Ciências Contábeis<br>🎯 Projetos com foco em Análise de Dados</h5>
 
 ###
 
-<h4 align="left">Analista de dados com foco nos processos de coleta, estruturação e análise de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a equipe de dados na evolução dos produtos e serviços.</h5>
+<h4 align="left">Sou Renan Fernandes desenvolvendo minhas habilidades em Python, R, MySQL, Power BI e Tableau. Sou apaixonado por transformar dados em insights e estou sempre em busca de oportunidades para aplicar meu conhecimento técnico, crescer como analista e contribuir com soluções inovadoras. 🚀</h5>
 
 ###
 
