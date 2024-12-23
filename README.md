@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h5>
+<h4 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)<br>🎯 Projetos voltados para Análise de Dados e Arquiterura de SGBDs</h5>
 
 ###
 
