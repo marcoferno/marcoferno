@@ -14,7 +14,11 @@
 
 ###
 
-<h4 align="left">Sou Renan Fernandes desenvolvendo minhas habilidades em Python, R, MySQL, Power BI e Tableau. Sou apaixonado por transformar dados em insights e estou sempre em busca de oportunidades para aplicar meu conhecimento técnico, crescer como analista e contribuir com soluções inovadoras. 🚀</h5>
+Certificações: [Google Cloud Computing Foundations](https://www.credly.com/badges/f69d7912-ec9a-4d99-967d-0cc352b58e8d/linked_in_profile)
+
+###
+
+<h4 align="left">Sou Renan Fernandes desenvolvendo minhas habilidades em Python, R, MySQL, Power BI e Tableau. Sou apaixonado por transformar dados em insights e estou sempre em busca de oportunidades para aplicar meu conhecimento técnico, crescer como analista e contribuir com soluções inovadoras. 🚀</h4>
 
 ###
 
