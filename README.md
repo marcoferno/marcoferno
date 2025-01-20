@@ -14,7 +14,7 @@
 
 ###
 
-Certificações: [Google Cloud Computing Foundations](https://www.credly.com/badges/f69d7912-ec9a-4d99-967d-0cc352b58e8d/linked_in_profile)
+Certificações: [Google Cloud Computing Foundations](https://www.credly.com/badges/f69d7912-ec9a-4d99-967d-0cc352b58e8d/linked_in_profile) | [Google Cloud Data Analytics Certificate](https://www.credly.com/earner/earned/badge/03d81174-4e53-465e-b6f6-a5fc19c7a555)
 
 ###
 
