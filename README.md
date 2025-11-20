@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas e Administração e Ciências Contábeis<br>🎯 Projetos com foco em Análise de Dados</h5>
+<h4 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas e Administração e Ciências Contábeis<br>🎯 Projetos com foco em Análise de Dados e Desenvolvimento</h5>
 
 ###
 
