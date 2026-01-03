@@ -2,7 +2,7 @@
 
 <img width="1039" height="222" alt="Image" src="https://github.com/user-attachments/assets/92ee4d31-fb7b-4550-b5d4-20f32aa35e4a" />
 
-Sou estudante de Sistemas de Informação, este é meu espaço no GitHub para aprendizado e prática em tecnologia, onde utilizo os repositórios para estudar programação, explorar ferramentas e desenvolver projetos pessoais, compartilhando exercícios, experimentos e aplicações que registram minha evolução em desenvolvimento de software e análise de dados.
+Estudante de Sistemas de Informação usando este espaço no GitHub para aprendizado e prática em tecnologia, onde utilizo os repositórios para estudar programação, explorar ferramentas e desenvolver projetos pessoais, compartilhando exercícios, experimentos e aplicações que registram minha evolução em desenvolvimento de software e análise de dados.
 
 Certificações: [Google Cloud Computing Foundations](https://www.credly.com/badges/f69d7912-ec9a-4d99-967d-0cc352b58e8d/linked_in_profile) | [Google Cloud Data Analytics Certificate](https://www.credly.com/earner/earned/badge/03d81174-4e53-465e-b6f6-a5fc19c7a555)
 
