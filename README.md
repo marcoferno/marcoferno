@@ -1,83 +1,16 @@
-<div align="left">
-  <a href="https://www.linkedin.com/in/marco-ferno/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:fernandes.renan3001@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo" />
-  </a>
-</div>
+# Prazer, Renan Fernandes 👋🏾💻
 
+<img width="1039" height="222" alt="Image" src="https://github.com/user-attachments/assets/92ee4d31-fb7b-4550-b5d4-20f32aa35e4a" />
 
-###
-
-<h4 align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas e Administração e Ciências Contábeis<br>🎯 Projetos com foco em Análise de Dados e Desenvolvimento</h5>
-
-###
+Sou estudante de Sistemas de Informação, este é meu espaço no GitHub para aprendizado e prática em tecnologia, onde utilizo os repositórios para estudar programação, explorar ferramentas e desenvolver projetos pessoais, compartilhando exercícios, experimentos e aplicações que registram minha evolução em desenvolvimento de software e análise de dados.
 
 Certificações: [Google Cloud Computing Foundations](https://www.credly.com/badges/f69d7912-ec9a-4d99-967d-0cc352b58e8d/linked_in_profile) | [Google Cloud Data Analytics Certificate](https://www.credly.com/earner/earned/badge/03d81174-4e53-465e-b6f6-a5fc19c7a555)
 
-###
+<h3 align="left">Conecte-se:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marco-ferno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-ferno" height="30" width="40" /></a>
+<a href="https://kaggle.com/marcoferno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marcoferno" height="30" width="40" /></a>
+</p>
 
-<h4 align="left">Sou Renan Fernandes desenvolvendo minhas habilidades em Python, R, MySQL, Power BI e Tableau. Sou apaixonado por transformar dados em insights e estou sempre em busca de oportunidades para aplicar meu conhecimento técnico, crescer como analista e contribuir com soluções inovadoras. 🚀</h4>
-
-###
-
-<h2 align="left">🛠️ Linguagens e Ferramentas:</h2>
-
-###
-
-<p align="left">💻 Ferramentas de Rotina:</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="25" alt="r logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
-</div>
-
-###
-
-<p align="left">🔍 Análise de Dados:</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="25" alt="pandas logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="25" alt="numpy logo"  />
-</div>
-
-###
-
-###
-<p align="left">🖥️ IDEs</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="25" alt="pycharm logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="25" alt="visualstudio logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  />
-</div>
-
-###
-
-<p align="left">📈 Estatísticas:</p>
-
-###
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoferno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
